@@ -1,5 +1,6 @@
 package com.lean.JwtSpringBootSecurity.model;
 
+import com.lean.JwtSpringBootSecurity.constants.RoleName;
 import org.hibernate.annotations.NaturalId;
 import javax.persistence.*;
 
