@@ -2,7 +2,7 @@ package com.lean.JwtSpringBootSecurity.controller;
 
 import com.lean.JwtSpringBootSecurity.exception.AppException;
 import com.lean.JwtSpringBootSecurity.model.Role;
-import com.lean.JwtSpringBootSecurity.model.RoleName;
+import com.lean.JwtSpringBootSecurity.constants.RoleName;
 import com.lean.JwtSpringBootSecurity.model.User;
 import com.lean.JwtSpringBootSecurity.payload.ApiResponse;
 import com.lean.JwtSpringBootSecurity.payload.JwtAuthenticationResponse;

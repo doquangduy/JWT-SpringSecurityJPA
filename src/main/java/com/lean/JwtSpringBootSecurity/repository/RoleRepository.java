@@ -1,7 +1,7 @@
 package com.lean.JwtSpringBootSecurity.repository;
 
 import com.lean.JwtSpringBootSecurity.model.Role;
-import com.lean.JwtSpringBootSecurity.model.RoleName;
+import com.lean.JwtSpringBootSecurity.constants.RoleName;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
